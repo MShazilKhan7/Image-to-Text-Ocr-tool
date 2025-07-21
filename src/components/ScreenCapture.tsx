@@ -380,7 +380,7 @@ const ScreenCapture: React.FC = () => {
       <div className="container mx-auto px-4 py-8">
         {/* Header */}
         <div className="text-center mb-8">
-          <h1 className="text-5xl font-bold bg-gradient-to-r from-blue-400 via-purple-400 to-emerald-400 bg-clip-text text-transparent mb-4">
+          <h1 className="text-5xl font-bold bg-gradient-to-r text-purple-400 to-emerald-400 bg-clip-text text-transparent mb-4">
             OCR Snipping Tool
           </h1>
           <p className="text-slate-400 text-lg max-w-2xl mx-auto">
